@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"battlerName":"Mossbattler","characterIndex":0,"characterName":"Mosswalk","classId":1,"equips":[1,0,2,3,0],"faceIndex":1,"faceName":"Mossface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Du","nickname":"Moss","note":"","profile":""},
+{"id":2,"battlerName":"Huymebattler","characterIndex":0,"characterName":"Huymewalk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Huymeface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thanh Pham","nickname":"Huyme","note":"","profile":""},
+{"id":3,"battlerName":"Natnebattler","characterIndex":0,"characterName":"Natnewalk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Natneface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chi","nickname":"Natne","note":"","profile":""},
+{"id":4,"battlerName":"Nasabattler","characterIndex":0,"characterName":"Nasawalk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nasaface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Quyen","nickname":"Nasa","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ha Vu","nickname":"Havupham","note":"","profile":""},
+{"id":6,"battlerName":"Racerbattler1","characterIndex":0,"characterName":"Racerwalk","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Raceface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Racer 1","nickname":"Chien","note":"","profile":""},
+{"id":7,"battlerName":"Racerbattler2","characterIndex":1,"characterName":"Racerwalk","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Raceface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Racer 2","nickname":"Hung Manh","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
